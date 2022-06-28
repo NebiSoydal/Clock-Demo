@@ -4,7 +4,7 @@
 
 # Clone this repository
 ```
-$ git clone https://github.com/nebisoydal/CLOCK
+$ git clone https://github.com/nebisoydal/Clock-Demo
 ```
 # Go into the repository
 ```
